@@ -1,0 +1,5 @@
+Priyadharshini: An IIFE is a way to execute functions immediately, as soon as they are created. IIFEs are very useful because they don't pollute the global object, and they are a simple way to isolate variables declarations.
+
+Spread operator: The spread operator is a new addition to the set of operators in JavaScript ES6. It takes in an iterable (e.g an array) and expands it into individual elements. The spread operator is commonly used to make shallow copies of JS objects.
+
+Thadi:  $ is simply a valid JavaScript identifier. Most JS libraries use the $ as the primary base object (or function), which just means that they identify an object in the same way a name would. The objects they identify include things such as variables, functions, properties, events, and objects.
